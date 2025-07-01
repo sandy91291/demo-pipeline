@@ -1,0 +1,6 @@
+pandas
+numpy
+flask
+-e .
+# -e . is used to install the package in editable mode, allowing changes to be reflected without reinstalling
+# This is useful during development.
